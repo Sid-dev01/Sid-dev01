@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working of Machine learning<br>I’m looking to collaborate on full stack projects<br>I’m currently learning deep learning<br>Fun fact: I can understand the workflow of any stack in just few days
+I’m currently working on Machine learning<br>I’m looking to collaborate on full stack projects<br>I’m currently learning deep learning<br>Fun fact: I can understand the workflow of any stack in just few days
 
 
 ## 🌐 Socials:
